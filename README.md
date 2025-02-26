@@ -2,4 +2,4 @@
 
 **Descrição:**
 
-Códigos que desenvolvi durante minhas aulas de linguagem de programação utilizando `C`, aqui você encontrará todas as aulas que tive durante o semestre.
+Repositório com os códigos que desenvolvi durante as aulas utilizando a linguagem `C` na disciplina de Linguagem de Programação que cursei no 2° Semestre da faculdade de Anásile e Desenvolvimento de Sistemas.
